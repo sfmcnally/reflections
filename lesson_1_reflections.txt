@@ -1,0 +1,7 @@
+The diff allowed me to clear out the noise and see only the important parts of the file.
+
+Rather than having to undo some changes if they made my code worse, I could simply restore to an hour or a day ago and try something new.
+
+Saving multiple files at the same time in a repo ensures that your repo stays in sync with all the files contained in it.
+
+git log and git diff allow you to see exactly which lines changed between files.
