@@ -1,0 +1,3 @@
+The repository made a .git folder and scanned the files in the new git directory. No Commits were made.
+
+The staging area is where you keep files that you want to add to your commit
