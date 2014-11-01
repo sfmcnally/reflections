@@ -1,3 +1,22 @@
 The repository made a .git folder and scanned the files in the new git directory. No Commits were made.
 
 The staging area is where you keep files that you want to add to your commit
+
+The staging area is useful so that you don't accidentally commit changes that you don't mean to. 
+Use git add
+Use git diff
+Use git diff --staged
+Use git commit
+
+
+Branches are great for experimental code. You can try out bold moves without worrying about damaging the main branch
+
+
+Drawing a graph might help you to view the structure of all the branches in your project.
+
+Merging helps combine two seperate brances with different code. 
+
+git show is very helpful for showing what happened between that and the parent  the commit
+git diff --oneline is a handy function
+
+The advantage to the auto merge is time savings and the ability to work on a project collaboratively without endless meetings about merging code.
