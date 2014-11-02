@@ -11,3 +11,5 @@ Forking allows you to edit code on github that is in a repository that you don't
 you always want to fetch a copy of the remote code so that you can see it and merge with it even if you are working offline.
 
 Without github, I would email files back and forth with someone and we would both edit them. It would be more direct, but less efficient. In short, I don't think I would.
+
+I think you would use a branch when you were making a larger change that you weren't sure would be used or one that was going to take a long time to implement so that you wouldn't break the master code base that others were working from.
