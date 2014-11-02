@@ -1,3 +1,6 @@
 These are my reflections for lesson 3. We are learning to push and pull from github so that we can work on projects with others.
 
 I would use a remote repository any time I wanted to work with someone who was in another location or even if I wanted to work on something from several locations myself
+
+
+You want to pull manually so that you can merge your changes with the code that you think you are working with instead of something that is changing under you.
