@@ -8,3 +8,4 @@ You want to pull manually so that you can merge your changes with the code that 
 
 Forking allows you to edit code on github that is in a repository that you don't have permission to edit. Then you can push and pull that code from your own version.
 
+you always want to fetch a copy of the remote code so that you can see it and merge with it even if you are working offline.
